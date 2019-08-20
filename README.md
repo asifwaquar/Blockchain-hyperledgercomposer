@@ -11,7 +11,7 @@
  
     sudo apt-get install -y software-properties-common
  
- [image](https://miro.medium.com/max/553/1*EJT5Y64NLeXFA8Zu16vd6g.png)
+ ![image](https://miro.medium.com/max/553/1*EJT5Y64NLeXFA8Zu16vd6g.png)
 
  
  ### Install Required Components
@@ -47,7 +47,7 @@
     export FABRIC_VERSION=hlfv12
    ./startFabric.sh
    ./createPeerAdminCard.sh
-    [image](https://miro.medium.com/max/700/1*c30OC-_LfLff1ueYjm-5-Q.png)
+    ![image](https://miro.medium.com/max/700/1*c30OC-_LfLff1ueYjm-5-Q.png)
  
 
 ### To stop, run this command:
@@ -56,7 +56,7 @@
  ### Start the Playground
  
     composer-playground
-    [image](https://miro.medium.com/max/700/1*X9Is0z2ogFkDGJu1cRrB7A.png
+   ![image](https://miro.medium.com/max/700/1*X9Is0z2ogFkDGJu1cRrB7A.png
   
    
    
