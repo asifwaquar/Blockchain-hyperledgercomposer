@@ -56,7 +56,7 @@
  ### Start the Playground
  
     composer-playground
-   ![image](https://miro.medium.com/max/700/1*X9Is0z2ogFkDGJu1cRrB7A.png
+   ![image](https://miro.medium.com/max/700/1*X9Is0z2ogFkDGJu1cRrB7A.png)
   
    
    
